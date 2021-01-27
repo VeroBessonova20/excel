@@ -1,0 +1,23 @@
+{
+  "name": "excel-pr",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeroBessonova20/excel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Veronika Bessonova <v.a.bessonova20@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeroBessonova20/excel/issues"
+  },
+  "homepage": "https://github.com/VeroBessonova20/excel#readme"
+}
